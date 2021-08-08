@@ -5,7 +5,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristina-novac/)
 
 
-[![Cristina's github stats](https://github-readme-stats.vercel.app/api?username=N0vac&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Cristina's github stats](https://github-readme-stats.vercel.app/api?username=N0vac&count_private=true&show_icons=true&theme=prussian&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **N0vac/N0vac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
