@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning front end web development
-- ⚡ Fun fact: I love climbing and working out
+- ⚡ Fun fact: I love weightlifting and climbing
 - 📫 How to reach me: [LinkedIn]( http://www.linkedin.com/in/cristina-novac)
 
 
